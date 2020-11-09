@@ -1,0 +1,18 @@
+
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: seashell;
+    display:flex;
+    justify-content: space-evenly ;
+}
+
+.collection{
+    display: flex;
+    flex-wrap: wrap;
+}
